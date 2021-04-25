@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/CompositeDesignPattern/CompositeDesignPattern.iml" filepath="$PROJECT_DIR$/CompositeDesignPattern/CompositeDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Design-pattern-in-java.iml" filepath="$PROJECT_DIR$/.idea/Design-pattern-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonDesignPattern/SingletonDesignPattern.iml" filepath="$PROJECT_DIR$/SingletonDesignPattern/SingletonDesignPattern.iml" />
     </modules>
   </component>
 </project>
