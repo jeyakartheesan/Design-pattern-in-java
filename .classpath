@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AbstractFactoryDesginPattern/src"/>
+	<classpathentry kind="src" path="AdapterDesignPattern/src"/>
+	<classpathentry kind="src" path="CompositeDesignPattern/src"/>
+	<classpathentry kind="src" path="FactoryPattern/src"/>
+	<classpathentry kind="src" path="BuilderDesignPattern/src"/>
+	<classpathentry kind="src" path="SingletonDesignPattern/src"/>
+	<classpathentry kind="output" path="out/production/AbstractFactoryDesginPattern"/>
+</classpath>

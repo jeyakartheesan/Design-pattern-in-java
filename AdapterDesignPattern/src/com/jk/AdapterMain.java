@@ -1,7 +1,5 @@
 package com.jk;
 
-import com.friends.PoiltPen;
-
 public class AdapterMain {
     public static void main(String[] args) {
         Pen p=new PenAdapter();
