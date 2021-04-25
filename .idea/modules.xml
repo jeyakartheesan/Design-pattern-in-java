@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractFactoryDesginPattern/AbstractFactoryDesginPattern.iml" filepath="$PROJECT_DIR$/AbstractFactoryDesginPattern/AbstractFactoryDesginPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdapterDesignPattern/AdapterDesignPattern.iml" filepath="$PROJECT_DIR$/AdapterDesignPattern/AdapterDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositeDesignPattern/CompositeDesignPattern.iml" filepath="$PROJECT_DIR$/CompositeDesignPattern/CompositeDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Design-pattern-in-java.iml" filepath="$PROJECT_DIR$/.idea/Design-pattern-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
     </modules>
